@@ -1,0 +1,58 @@
+body,
+html {
+    width: 100%;
+    height: 100%;
+}
+
+.hhh {
+    color: white;
+    font-size:50px;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-image: url("header.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+a:hover{
+    text-decoration: none;
+    color: white;
+}
+
+.row {
+    text-align: middle;
+    /* border-color: white;
+    border: 5px solid white; */
+}
+
+.row1 {
+    padding-bottom: 210px;
+}
+
+.middlehi {
+    height: 45vh;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+.btn-primary{
+    border-radius: 30px;
+    margin: 10px;
+    padding: 10px 30px;
+}
+
+.dummy{
+    height: 48vh;
+}
+
+.white{
+    height: 500vh;
+    background-color: white;
+}
