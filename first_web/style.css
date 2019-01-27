@@ -25,6 +25,11 @@ a:hover{
     color: white;
 }
 
+.test{
+    text-align: right;
+    color: blueviolet;
+}
+
 .row {
     text-align: middle;
     /* border-color: white;
