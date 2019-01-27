@@ -37,3 +37,6 @@ Toute l'expérience est sans argent. Payez directement via l'application - plus 
 
 # 1 million de dollars d'assurance
 Chaque trajet est couvert du début à la fin avec notre police d’assurance responsabilité civile de 1 million de dollars par incident.
+
+# Inscription gratuite
+Conducteurs et passagers ne paient pas de frais d'inscription ni d'abonnement
