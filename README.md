@@ -2,7 +2,7 @@
 
 TukTuk est un service de covoiturage que vous pouvez utiliser lorsque quelqu'un près de vous se dirige dans la même direction. Les automobilistes fixent le prix eux-mêmes, et ils sont généralement beaucoup moins chers que Lyft et Uber - et vous payez avec l'application. Les conducteurs sont présélectionnés, les trajets sont suivis par GPS et couverts par une assurance. 
 
-Essentielement nous souhaitons être le plus espectueux de la nature en offrant un service qui apporte une fléxibilité au mode de transport métropolitaine.
+Essentiellement nous souhaitons être le plus respectueux de la nature en offrant un service qui apporte une flexibilité au mode de transport métropolitain.
 
 ## Votre sécurité est notre priorité.
 
