@@ -14,7 +14,6 @@ Les coureurs peuvent signaler les soupçons de drogue ou d'alcool par e-mail ou 
 # La vérification des antécédents
 Nous effectuons des vérifications rigoureuses des antécédents criminels des conducteurs. Apprendre encore plus.
 
-
 # Qualité du véhicule
 Tous les conducteurs de Side.cr sur la route doivent avoir des véhicules construits en 2000 ou plus tard.
 
