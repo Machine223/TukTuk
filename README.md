@@ -7,7 +7,7 @@ TukTuk est un service de covoiturage que vous pouvez utiliser lorsque quelqu'un 
 
 Essentiellement nous souhaitons être le plus respectueux de la nature en offrant un service qui apporte une flexibilité au mode de transport métropolitain.
 
-## Votre sécurité est notre priorité.
+Votre sécurité est notre priorité.
 
 
 
